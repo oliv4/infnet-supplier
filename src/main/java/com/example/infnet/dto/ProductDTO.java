@@ -1,4 +1,4 @@
-package com.example.infnetstore.dto;
+package com.example.infnet.dto;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -1,6 +1,7 @@
-package com.example.infnetstore.repository;
+package com.example.infnet.repository;
 
-import com.example.infnetstore.dto.ProductDTO;
+import com.example.infnet.dto.ProductDTO;
+
 import org.springframework.data.repository.CrudRepository;
 
 public interface ProductRepository extends CrudRepository<ProductDTO, Long> {

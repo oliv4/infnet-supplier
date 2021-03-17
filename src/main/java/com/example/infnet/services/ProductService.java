@@ -1,10 +1,11 @@
-package com.example.infnetstore.services;
+package com.example.infnet.services;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.example.infnetstore.dto.ProductDTO;
-import com.example.infnetstore.repository.ProductRepository;
+import com.example.infnet.dto.ProductDTO;
+import com.example.infnet.repository.ProductRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

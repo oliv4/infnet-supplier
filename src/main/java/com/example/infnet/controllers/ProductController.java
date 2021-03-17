@@ -1,10 +1,10 @@
-package com.example.infnetstore.controllers;
+package com.example.infnet.controllers;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.example.infnetstore.dto.ProductDTO;
-import com.example.infnetstore.services.ProductService;
+import com.example.infnet.dto.ProductDTO;
+import com.example.infnet.services.ProductService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
